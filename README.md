@@ -1,3 +1,9 @@
+## Important Note on Deployment
+
+The backend is deployed on the free tier of [Render](https://render.com/). As a result, if the service is not used for 1-2 hours, Render may temporarily shut down the backend. It may take a few minutes to restart the backend when accessed after inactivity.
+
+
+
 # SHL Recommender System
 
 This project involves scraping data from the SHL product catalog to provide personalizedtest recommendations based on individual assessments.

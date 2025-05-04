@@ -10,6 +10,22 @@ The data is scraped from the [SHL Product Catalog](https://www.shl.com/products/
 - **Backend**: Deployed on Render 
   - [Health API](https://shl-recommender-ik0b.onrender.com/health)
   - [Recommendations API](https://shl-recommender-ik0b.onrender.com/recommend)
+ 
+please use postman to hit the recommend api using
+
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/aae83d19-204a-4040-b574-41e67ee8ffa9" />
+
+
+{
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/cd5c9427-4cc5-4bca-a3b4-69e3a22564b5" />
+}
+
+output: 
+<img width="1162" alt="image" src="https://github.com/user-attachments/assets/d2226f88-0ff0-4eac-b6bc-ab0b99ea8d10" />
+
+
+
+
 
 ### Evaluation Report
 Although I faced some challenges during evaluation, I made sure to extract the most relevant results. You can view the detailed evaluation report [here](https://drive.google.com/file/d/1YqNZPzVGglw37aZyGJaIB0qdvaOnFtgD/view?usp=drive_link).

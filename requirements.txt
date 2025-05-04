@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+requests
+uvicorn
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+pydantic
+langchain-cohere
+cohere
+cohere

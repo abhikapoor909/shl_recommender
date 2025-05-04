@@ -26,5 +26,3 @@ During deployment, memory crashes occurred due to the large embeddings required 
 
 **Solution**: I switched to using Cohere embeddings, which were more efficient and reduced memory usage, allowing the application to run smoothly without causing crashes.
 
-## Conclusion
-This project aims to provide users with relevant health and test recommendations based on scraped data from SHL. Through iterative improvements in query handling and memory management, the system delivers more accurate results and has been successfully deployed.

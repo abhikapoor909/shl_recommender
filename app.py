@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from typing import List, Dict, Any, Optional
 
-API_BASE_URL = "https://shl-recommender-5.onrender.com"
+API_BASE_URL = "https://shl-recommender-ik0b.onrender.com/"
 RECOMMEND_ENDPOINT = f"{API_BASE_URL}/recommend"
 HEALTH_ENDPOINT = f"{API_BASE_URL}/health"
 
